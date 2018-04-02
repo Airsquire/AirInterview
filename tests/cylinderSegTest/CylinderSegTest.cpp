@@ -21,7 +21,7 @@ TEST(getNameTest, ShouldReturnSampleLib1Name) {
 }
 // Checks if file is not error has occurred
 TEST(findCylinderTest, ShouldReturnFileNotFoundError) {
-    const char *path = "/Users/anushamodwal/Documents/Workspace/AirInterview/";
+    const char *path = filePath;
     auto cylSegLib = CylindricalSegmentationLib();
     const char *result = "File Not Found";
     ASSERT_STREQ(cylSegLib.findCylinder(path).c_str(),result);

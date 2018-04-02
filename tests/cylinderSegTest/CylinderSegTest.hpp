@@ -1,4 +1,5 @@
 #include "gtest/gtest.h"
+#include "../../src/common.h"
 
 // The fixture for testing class Foo.
 class CylinderSegTest : public ::testing::Test {
