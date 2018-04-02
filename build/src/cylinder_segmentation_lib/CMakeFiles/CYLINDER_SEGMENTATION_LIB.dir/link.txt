@@ -1,0 +1,2 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ar qc libCYLINDER_SEGMENTATION_LIB.a  CMakeFiles/CYLINDER_SEGMENTATION_LIB.dir/cylinder_segmentation_lib.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ranlib libCYLINDER_SEGMENTATION_LIB.a
